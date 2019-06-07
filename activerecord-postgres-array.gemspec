@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "activerecord"
   s.add_development_dependency 'rake'
-  s.add_development_dependency 'rspec', '~> 2.12.0'
+  s.add_development_dependency 'rspec', '~> 3.8.0'
   s.add_development_dependency 'pg'
   s.add_development_dependency 'activerecord-postgres-hstore'
   s.add_development_dependency 'combustion', '~> 0.3.1'
